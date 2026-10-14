@@ -1,6 +1,6 @@
 # Hi, I'm Mateo Penit 👋
 
-Software developer with a strong focus on practical, scalable solutions for the web, cloud, and backend systems. I enjoy building reliable apps, APIs, and automation tools that solve real-world problems efficiently.
+Software developer focused on building practical, scalable, and maintainable solutions for the web, backend, and cloud.
 
 ## 🌐 Socials
 
@@ -12,10 +12,10 @@ Software developer with a strong focus on practical, scalable solutions for the 
 ## 👨‍💻 About Me
 
 - Full-stack and backend developer
-- Passionate about clean architecture and maintainable code
-- Experienced with web applications, APIs, cloud services, and database-driven systems
-- Comfortable working across multiple languages and stacks
-- Interested in automation, system integration, and cloud infrastructure
+- Experienced with web apps, APIs, cloud services, and database-driven systems
+- Interested in clean architecture, automation, and scalable software
+- Comfortable working with multiple technologies and stacks
+- Focused on building reliable solutions that solve real-world problems
 
 ---
 
@@ -23,13 +23,13 @@ Software developer with a strong focus on practical, scalable solutions for the 
 
 <div align="center">
 
-| Project Area | Description |
+| Area | Description |
 |---|---|
-| Web Applications | Building responsive, user-friendly experiences with modern frontend and backend tooling |
-| API Development | Designing and maintaining scalable APIs for real-world business logic |
-| Cloud Solutions | Deploying and integrating cloud services for storage, auth, automation, and hosting |
-| Database Systems | Working with SQL and data modeling for reliable application performance |
-| Automation | Creating tools and scripts to streamline workflows and reduce manual effort |
+| Web Applications | Building responsive and user-friendly solutions |
+| API Development | Designing and maintaining scalable backend services |
+| Cloud & Hosting | Deploying and integrating cloud-based systems |
+| Database Systems | Working with SQL and data modeling for reliable performance |
+| Automation | Creating scripts and tools to streamline workflows |
 
 </div>
 
@@ -51,7 +51,7 @@ Software developer with a strong focus on practical, scalable solutions for the 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### Cloud & Databases
+### Cloud & Data
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -67,12 +67,20 @@ Software developer with a strong focus on practical, scalable solutions for the 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=PenitMateo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PenitMateo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PenitMateo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=PenitMateo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PenitMateo&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PenitMateo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=PenitMateo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PenitMateo&icon=0&color=0" alt="Profile views" />
+</p>
