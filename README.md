@@ -78,9 +78,3 @@ Software developer focused on building practical, scalable, and maintainable sol
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PenitMateo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PenitMateo&icon=0&color=0" alt="Profile views" />
-</p>
